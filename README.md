@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Angular 17 Framework**
 
-- 👯 I’m looking to collaborate on **Sales System**
+- 👯 I’m looking to collaborate on **Subscriptions System**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MohamedShehataAbdalla](https://github.com/MohamedShehataAbdalla)
 
